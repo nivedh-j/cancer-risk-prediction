@@ -3,3 +3,6 @@ scikit-learn
 pandas
 numpy
 matplotlib
+git add requirements.txt
+git commit -m "Fix requirements: remove pickle, add scikit-learn"
+git push
