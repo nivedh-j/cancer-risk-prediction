@@ -50,6 +50,7 @@ cancer-risk-prediction/
 ├── model.pkl               # Trained and serialized ML model
 ├── cancer_prediction.ipynb # Model training notebook
 ├── dataset.csv             # Dataset used for training
+├── screenshots             # app.py screenshots
 ├── requirements.txt        # Python dependencies
 └── README.md
 ```
