@@ -9,7 +9,7 @@ st.set_page_config(page_title="Cancer Risk Prediction",layout="wide")
 
 # ---------------- LOAD MODEL ---------------- #
 
-with open("cancer-risk-prediction/model/Finalmodel.pk1", "rb") as file:
+with open("model/Finalmodel.pk1", "rb") as file:
     model = pickle.load(file)
 
 # ---------------- CUSTOM CSS ---------------- #
