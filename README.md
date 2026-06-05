@@ -12,9 +12,9 @@ This project covers the full ML pipeline — from data preprocessing and model t
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live App
 
-> 🔗 *[Add your Streamlit Cloud / deployed app link here]*
+> 🔗 *[(https://cancer-risk-prediction-nivedhj.streamlit.app/)]*
 
 ---
 
